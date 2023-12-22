@@ -29,17 +29,15 @@ Verifica la compatibilidad de las versiones de JDK y Gradle con las bibliotecas 
 ## Estructura del Proyecto
 
 ```plaintext
-observer-pattern-example
+Sprint3_Task01_Patterns2
 |-- src
 |   |-- main
 |       |-- java
-|           |-- com
-|               |-- example
-|                   |-- observer
-|                       |-- StockMarket.java
-|                       |-- StockBroker.java
-|                       |-- StockObserver.java
-|                       |-- Main.java
+|           |-- N1_01
+|               |-- StockMarket.java
+|               |-- StockBroker.java
+|               |-- StockObserver.java
+|               |-- Main.java
 |-- build.gradle
 
 
